@@ -2305,7 +2305,7 @@ img {
 .footer {
   color: #999;
   text-align: center;
-  background-color: #222;
+  background-color: rgb(0, 0, 0);
   margin-top: 29px;
   padding-top: 36px;
   padding-bottom: 36px;
@@ -2657,7 +2657,7 @@ img {
   line-height: 35px;
   position: relative;
   left: auto;
-  color: grey;
+  color: rgb(189, 189, 189);
 }
 
 .image-2 {
@@ -4301,6 +4301,7 @@ background-color: red;
   }
 
   .text-block-2 {
+    color: rgb(189, 189, 189);
     text-align: center;
     flex-flow: row;
     flex: none;
